@@ -1,4 +1,4 @@
-#Welcome to my website!
+# Welcome to my website!
 
 -this Repo is a unique project designed to present my skills, experiences, and accomplishments in a format similar to a traditional resume but with an interactive and dynamic touch.
 
